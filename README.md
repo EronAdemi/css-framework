@@ -1,8 +1,5 @@
-# React + Vite
+# FriendSphere
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Social media app that has been created using React & Tailwind.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+"FriendSphere" is a unique and engaging social media platform designed to foster and strengthen real-life friendships in the digital age. Unlike traditional social networks that focus on quantity and shallow connections, FriendSphere is all about quality interactions and meaningful relationships.
